@@ -12,8 +12,4 @@ dependencies = [
     "streamlit>=1.58.0",
 ]
 
-[tool.uv.workspace]
-members = [
-    "0523",
-    "0530",
-]
+
